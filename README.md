@@ -13,9 +13,9 @@
 
 ### App screenshot
 
-| Splash  | Login | Login_Validation | Login_accepted |
-| ------------- | ------------- |------------- | ------------- | 
-| ![](./screenshots/Splash.jpg) | ![](./screenshots/login.jpg)  | ![](./screenshots/login_validation.jpg)  | ![](./login_correct.jpg) |
+| Splash  | Login | Login_Validation 
+| ------------- | ------------- |------------- |  
+| ![](./screenshots/Splash.jpg) | ![](./screenshots/login.jpg)  | ![](./screenshots/login_validation.jpg)  |
 
 | Main_Activity  | Add_Tasks | Task_Validation |
 | ------------- | ------------- |------------- |
@@ -29,11 +29,11 @@
 | ------------- | ------------- |------------- |
 | ![](./screenshots/menu.jpg) | ![](./screenshots/delete_completed.jpg)  | ![](./screenshots/deleted_completed.jpg)  |
 
-| DeleteAll_Tasks  | Logout |
-| ------------- | ------------- |
-| ![](./screenshots/delete_all.jpg) | ![](./screenshots/logout.jpg)  |
+| DeleteAll_Tasks  | Logout |  Login_accepted |
+| ------------- | ------------- | ------------- |
+| ![](./screenshots/delete_all.jpg) | ![](./screenshots/logout.jpg)  |   ![](./login_correct.jpg) |
 
-| Gif |
+| Gif_Swipe_delete |
 |------------- | 
 | ![](./screenshots/Swipe.gif) |
 
