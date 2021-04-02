@@ -31,7 +31,7 @@
 
 | DeleteAll_Tasks  | Logout |  Login_accepted |
 | ------------- | ------------- | ------------- |
-| ![](./screenshots/delete_all.jpg) | ![](./screenshots/logout.jpg)  |   ![](./login_correct.jpg) |
+| ![](./screenshots/delete_all.jpg) | ![](./screenshots/logout.jpg)  |   ![](./screenshots/login_correct.jpg) |
 
 | Gif_Swipe_delete |
 |------------- | 
