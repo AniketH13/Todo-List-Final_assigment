@@ -14,7 +14,7 @@
 ### App screenshot
 
 | Splash  | Login | Login_Validation | Login_accepted |
-| ------------- | ------------- |------------- |
+| ------------- | ------------- |------------- | ------------- | 
 | ![](./screenshots/Splash.jpg) | ![](./screenshots/login.jpg)  | ![](./screenshots/login_validation.jpg)  | ![](./login_correct.jpg) |
 
 | Main_Activity  | Add_Tasks | Task_Validation |
@@ -34,6 +34,7 @@
 | ![](./screenshots/delete_all.jpg) | ![](./screenshots/logout.jpg)  |
 
 | Gif |
+|------------- | 
 | ![](./screenshots/Swipe.gif) |
 
 
