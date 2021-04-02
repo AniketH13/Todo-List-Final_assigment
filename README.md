@@ -41,3 +41,11 @@
 ### Resources
 1. https://developer.android.com/topic/libraries/architecture/room
 2. https://developer.android.com/reference/android/app/Activity
+
+### Features
+1. Swipe to Delete
+2. Add Activity with Priority with color
+3. Delete all Notes
+4. Login with valid id
+5. Delete completed Notes
+6. logout from system
